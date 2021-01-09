@@ -27,7 +27,7 @@ SECRET_KEY = ')#s8_70q3b$v^fhagdcshunyo-d!zmcc&ps^oi@kn5^kqknt$#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.amazonaws.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.amazonaws.com', 'kakizaki.pythonanywhere.com']
 
 
 # Application definition
